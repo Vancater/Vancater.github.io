@@ -8,4 +8,4 @@ featured_image: 'https://c2.staticflickr.com/8/7540/16295047205_cbc83b9385_b_d.j
 lead_text: 'Nikolay Miroshnichenko-Cloud'
 ---
 
-This is my good doggy (a picture that looks just like her). Hanging out.
+This is cloud. Hanging out.
