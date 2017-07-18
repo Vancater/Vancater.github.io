@@ -1,8 +1,8 @@
 # Site Settings
-title: 'Rich Hildred'
+title: 'Bao Khanh Nguyen'
 description: 'My Portfolio Site'
-url: 'https://rhildred.github.io' # the base hostname & protocol for your site
-footer_text: '&copy; Rich Hildred'
+url: 'https://vancater.github.io' # the base hostname & protocol for your site
+footer_text: '&copy; Bao Khanh nguyen'
 
 # Admin Settings
 admin_name: 'Rich Hildred'
